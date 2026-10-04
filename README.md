@@ -2,7 +2,7 @@
 
 Sistema de inventario multi-cliente para farmacias, con alertas de vencimiento, reposición de stock y notificaciones automáticas por correo.
 
-🔗 **App en vivo:** https://jeremias123r.github.io/farmacia-alertas/
+🔗 **App en vivo:** https://jeremias123r.github.io/Farmacia-demo/
 
 ---
 
